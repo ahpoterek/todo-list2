@@ -19,4 +19,8 @@ return $newer;
  // to put it in current directory, use a dot 
  //To refer to the directory it is in, use ~/Location/Location
 
+ //Commit: git commit -m "A comment on it, like 'Added 2 new files'"
+
+ ?>
+
 
