@@ -18,8 +18,9 @@ return $newer;
  //COPY: cp source destination
  // to put it in current directory, use a dot 
  //To refer to the directory it is in, use ~/Location/Location
-
+//Git add: git add FOLLOWED BY a file name where the change happened
  //Commit: git commit -m "A comment on it, like 'Added 2 new files'"
+ //To close an issue, in the commit comment add (closes #number of issue)
  //New Comment!
 
  ?>
