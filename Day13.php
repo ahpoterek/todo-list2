@@ -20,6 +20,7 @@ return $newer;
  //To refer to the directory it is in, use ~/Location/Location
 
  //Commit: git commit -m "A comment on it, like 'Added 2 new files'"
+ //New Comment!
 
  ?>
 
